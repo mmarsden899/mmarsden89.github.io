@@ -14,6 +14,19 @@ body {
   color: #4e4e4e;
 }
 
+.skills {
+  width: 60px;
+  height: 60px;
+  margin: 10px;
+}
+
+.skills-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
 .star {
   position: absolute;
   width: 2px;
