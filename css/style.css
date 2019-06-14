@@ -15,24 +15,24 @@ body {
 }
 
 .skills {
-  width: 60px;
-  height: 60px;
-  margin: 10px;
+  width: 60px !important;
+  height: 60px !important;
+  margin: 10px !important;
 }
 
 .skills-container {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  text-align: center;
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  text-align: center !important;
 }
 
 .star {
-  position: absolute;
-  width: 2px;
-  height: 2px;
-  background: rgba(255,255,255,0.0);
-  border-radius: 5px;
+  position: absolute !important;
+  width: 2px !important;
+  height: 2px !important;
+  background: rgba(255,255,255,0.0) !important;
+  border-radius: 5px !important;
 }
 
 @keyframes twinkle {
