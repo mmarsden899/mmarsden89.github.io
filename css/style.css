@@ -18,6 +18,16 @@ body {
   height: 150px;
 }
 
+.a-hrefs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 .card-height {
   height: 300px !important;
 }
